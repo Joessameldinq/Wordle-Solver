@@ -46,7 +46,6 @@ So "GGGGG" encodes to 2*(1+3+9+27+81) = 242. All dictionary-by-target pattern va
 ├── Wordle.h                     # Class interface
 ├── Wordle.cpp                   # Solver logic
 ├── main.cpp                     # Entry point, JSON , game loop
-├── wordle.py                    # Python prototype
 ├── targets_5_letter.txt        # Valid answer words
 └── dictionary_5_letter.txt     # Full guess word list
 ```
